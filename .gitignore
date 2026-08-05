@@ -1,0 +1,21 @@
+# Virtual machine files
+*.vhd
+*.vhdx
+*.vmcx
+*.vmrs
+*.iso
+*.ova
+
+# Secrets and credentials
+secrets/
+credentials/
+*.pfx
+*.key
+*password*.txt
+*secret*.txt
+
+# Temporary and operating-system files
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
